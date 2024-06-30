@@ -1,0 +1,38 @@
+[
+	{
+		"name": "TL-Avalon",
+		"leaderName": "TanakaLun",
+		"adjective": ["tlm"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "我们来自花之庭院",
+		"startIntroPart2": "自星之内海而来的存在，究竟会掀起怎样的波澜……",
+		
+		"declaringWar": "啊啊啊，多么令人悲伤，但我们仍然这么做",
+		"attacked": "啊啊啊，你的所作所为令人悲伤",
+		"defeated": "啊啊啊，神秘已经消散，神代已然消亡。王啊，这已经无可奈何了……",
+		"introduction": "作为星之内海的子民，我将为王而战",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "好吧，反正打打杀杀也挺无聊的。",
+		"tradeRequest": "我们荣幸地向您提供这项交易的报价",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Avalon","The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+]
